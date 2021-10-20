@@ -1,2 +1,2 @@
 # Deep-Learning-
-Compilation of Deep learning project
+Compilation of Deep learning projects
